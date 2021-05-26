@@ -1,6 +1,6 @@
 commands
 transmit: datos crc: crc
-	Transcript show: 'Data to send: ', datos;
+	Transcript show: 'Data to send through 4G: ', datos;
 		cr;
-		show: 'CRC: ', crc;
+		show: 'CRC: ', crc asString;
 		cr
