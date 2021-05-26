@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Connection",
+	"category" : "TP4E3OO2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pict"
+	],
+	"name" : "WiFiConn",
+	"type" : "normal"
+}
