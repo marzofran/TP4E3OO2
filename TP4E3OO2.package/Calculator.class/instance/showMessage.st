@@ -1,0 +1,3 @@
+commands
+showMessage 
+	self subclassResponsibility 

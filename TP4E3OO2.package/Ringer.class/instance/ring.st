@@ -1,3 +1,7 @@
 commands
 ring
-	Transcript show: 'Ring ring connection changed'; cr 
+	Transcript
+		show: '-----';
+		cr;
+		show: 'Ring ring connection changed';
+		cr
