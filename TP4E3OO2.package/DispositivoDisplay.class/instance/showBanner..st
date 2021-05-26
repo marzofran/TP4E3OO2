@@ -1,4 +1,4 @@
 commands
 showBanner: img
 	"displays the symbol somehow"
-	Transcript show: img; cr
+	Transcript show: 'The banner shows: ', img; cr
