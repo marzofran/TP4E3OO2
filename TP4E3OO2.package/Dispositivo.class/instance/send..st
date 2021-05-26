@@ -1,6 +1,4 @@
 commands
 send: datos
-	|crc|
-	crc := crcCalculator crcFor: datos.
-	connection sendData: datos crc: crc
+	connection sendData: datos crc: (crcCalculator crcFor: datos)
 	
