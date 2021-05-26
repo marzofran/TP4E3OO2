@@ -1,4 +1,4 @@
-as yet unclassified
+commands
 ring
 
 	"ring ring ring banana phone"

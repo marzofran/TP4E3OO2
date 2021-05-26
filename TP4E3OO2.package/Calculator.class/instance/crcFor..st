@@ -1,3 +1,3 @@
-as yet unclassified
+queries
 crcFor: datos
 	^ self subclassResponsibility
