@@ -1,3 +1,3 @@
 strategy
 configurarCRC: unCRCCalculator
-	self crcCalculator: unCRCCalculator 
+	crcCalculator:= unCRCCalculator 
