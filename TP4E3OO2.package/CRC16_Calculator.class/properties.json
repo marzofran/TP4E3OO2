@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Calculator",
+	"category" : "TP4E3OO2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CRC16_Calculator",
+	"type" : "normal"
+}
