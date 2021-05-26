@@ -1,4 +1,4 @@
-as yet unclassified
+commands
 showBanner: img
 
 	"displays the symbol somehow"
