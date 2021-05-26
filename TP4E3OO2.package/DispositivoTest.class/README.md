@@ -1,0 +1,1 @@
+A DispositivoTest is a test class for testing the behavior of Dispositivo

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "TP4E3OO2-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DispositivoTest",
+	"type" : "normal"
+}
