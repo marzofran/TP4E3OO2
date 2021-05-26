@@ -1,3 +1,6 @@
 commands
 transmit: datos crc: crc
-	"Desarrollar"
+	Transcript show: 'Data to send: ', datos;
+		cr;
+		show: 'CRC: ', crc;
+		cr
