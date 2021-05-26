@@ -1,4 +1,3 @@
 commands
 ring
-
-	"ring ring ring banana phone"
+	Transcript show: 'Ring ring'; cr 
