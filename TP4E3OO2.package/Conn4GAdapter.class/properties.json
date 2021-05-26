@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Connection",
+	"category" : "TP4E3OO2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"adaptee"
+	],
+	"name" : "Conn4GAdapter",
+	"type" : "normal"
+}
